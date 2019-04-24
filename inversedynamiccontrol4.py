@@ -5,7 +5,6 @@ import position_control_utility as PU
 from ambf_subscriber7 import dynamic_model_func
 global state_msg, cmd_msg, active
 from geometry_msgs.msg import Vector3
-import matplotlib.pyplot as plt
 
 # Taking input from user regarding which link to control
 var_name = raw_input("Enter the link you want to control\n")
@@ -104,14 +103,6 @@ while not rospy.is_shutdown():
         vector_msg.x = cmd_pos
         vector_msg.y = cur_pos
         vector_msg.z = e
-
-        t = t + 0.001
-        plt.plot(t, e, 'b', label='Error in Link Position')
-        plt.legend(loc='best')
-        plt.xlabel('t')
-        plt.ylabel('error in position')
-        plt.grid()
-        plt.show()
 
         # Publish messages on ROS
         pub_plot.publish(vector_msg)
