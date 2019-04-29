@@ -1,3 +1,5 @@
+## The following code is Written by Ajith Kumar
+
 import numpy as np
 import scipy as sp
 import math
