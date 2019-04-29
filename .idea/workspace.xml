@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4a0e73f-aff2-4c8f-a632-d58a47355d31" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/inversedynamiccontrol4.py" beforeDir="false" afterPath="$PROJECT_DIR$/inversedynamiccontrol4.py" afterDir="false" />
-    </list>
+    <list default="true" id="a4a0e73f-aff2-4c8f-a632-d58a47355d31" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/inversedynamiccontrol4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-858">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="282">
+              <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
             </state>
           </provider>
         </entry>
@@ -113,8 +111,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/inversedynamiccontrol4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-858">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="282">
+          <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
         </state>
       </provider>
     </entry>
