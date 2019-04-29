@@ -29,4 +29,10 @@ To install the AMBF simulator, follow the instructions mentioned in the GitHub R
 - A GUI would pop up where you can provide the desired position 
 - Adjust the Gain values to reduce the error value being printed to a very small value
 
+### How to see output in graph
+- Install PlotJuggler from GitHub Repository: https://github.com/facontidavide/PlotJuggler
+- Run plotjuggler using command: rosrun plotjuggler PlotJuggler 
+- In the streaming tab, select Start: ROS_Topic_streamer 
+- Select 'tau_plot' and you can see the output 
+
 
