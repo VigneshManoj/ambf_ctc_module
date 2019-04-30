@@ -1,4 +1,4 @@
-## The following code is Written by Ajith Kumar
+## The following snippet code is Written by Ajith Kumar
 
 import yaml 
 import numpy as np
